@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10745980666",
+    "firebase_url": "https://demos-c1b3b.firebaseio.com",
+    "project_id": "demos-c1b3b",
+    "storage_bucket": "demos-c1b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10745980666:android:130910ed78890849",
+        "android_client_info": {
+          "package_name": "net.freelancertech.gdg.demo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10745980666-3e55huks92gskl1cke215fa4o1lsvqqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZthpAqGDc3i_WU40Ot-3fnClChV3Q2M0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
