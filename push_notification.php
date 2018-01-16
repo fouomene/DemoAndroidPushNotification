@@ -10,7 +10,7 @@
 			);
 
 		$headers = array(
-			'Authorization:key=AAAAN0KnC1I:APA91bHfmrh1obrGULBXnv4gB_X3dFSD54VH4TahjAai8m6ozxKYaHsFyfumIidl5tW7XpoCpgaGwIbXs7eZzHsxFLjpAU5kwlu8L_VhANjXk0',
+			'Authorization:key=AAAAN0KnC1I:APA91bHfmrh1obrGULBXnv4gB_X3dFSD54VH4TahjAai8m6ozxKYaHsFyfumI',
 			'Content-Type: application/json'
 			);
 
@@ -31,7 +31,7 @@
 	}
 	
 
-	$conn = mysqli_connect("10.120.1.22","freegbbn_userinf","","freegbbn_dbtoken");
+	$conn = mysqli_connect("10.120.1.222","freegbbn_","","freegbbn_");
 
 	$sql = "Select Token From users";
 
